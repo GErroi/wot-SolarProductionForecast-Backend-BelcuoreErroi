@@ -1,0 +1,2324 @@
+[
+    {
+        "date": "2025-02-14 05:45:00+00:00",
+        "temperature_2m": "10.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "0.0",
+        "global_tilted_irradiance": "0.0",
+        "state": "448.11009017162405"
+    },
+    {
+        "date": "2025-02-14 06:00:00+00:00",
+        "temperature_2m": "10.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "6.0",
+        "global_tilted_irradiance": "4.7454486",
+        "state": "455.9214548771896"
+    },
+    {
+        "date": "2025-02-14 06:15:00+00:00",
+        "temperature_2m": "10.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "27.0",
+        "global_tilted_irradiance": "20.88801",
+        "state": "454.78370983196595"
+    },
+    {
+        "date": "2025-02-14 06:30:00+00:00",
+        "temperature_2m": "10.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "57.0",
+        "global_tilted_irradiance": "43.682243",
+        "state": "456.9575783246047"
+    },
+    {
+        "date": "2025-02-14 06:45:00+00:00",
+        "temperature_2m": "10.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "89.0",
+        "global_tilted_irradiance": "66.503265",
+        "state": "318.79805187924427"
+    },
+    {
+        "date": "2025-02-14 07:00:00+00:00",
+        "temperature_2m": "11.2",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "120.0",
+        "global_tilted_irradiance": "93.01544",
+        "state": "308.6099993880257"
+    },
+    {
+        "date": "2025-02-14 07:15:00+00:00",
+        "temperature_2m": "11.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "147.0",
+        "global_tilted_irradiance": "120.04282",
+        "state": "293.2439905262072"
+    },
+    {
+        "date": "2025-02-14 07:30:00+00:00",
+        "temperature_2m": "12.15",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "173.0",
+        "global_tilted_irradiance": "146.48734",
+        "state": "276.09344670854335"
+    },
+    {
+        "date": "2025-02-14 07:45:00+00:00",
+        "temperature_2m": "12.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "200.0",
+        "global_tilted_irradiance": "174.10625",
+        "state": "259.8666849347456"
+    },
+    {
+        "date": "2025-02-14 08:00:00+00:00",
+        "temperature_2m": "13.05",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "225.0",
+        "global_tilted_irradiance": "200.62181",
+        "state": "248.74414052309362"
+    },
+    {
+        "date": "2025-02-14 08:15:00+00:00",
+        "temperature_2m": "13.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "249.0",
+        "global_tilted_irradiance": "226.90909",
+        "state": "242.52208662951006"
+    },
+    {
+        "date": "2025-02-14 08:30:00+00:00",
+        "temperature_2m": "13.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "271.0",
+        "global_tilted_irradiance": "252.30914",
+        "state": "238.7224552790578"
+    },
+    {
+        "date": "2025-02-14 08:45:00+00:00",
+        "temperature_2m": "13.8",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "292.0",
+        "global_tilted_irradiance": "277.7795",
+        "state": "236.55232405487257"
+    },
+    {
+        "date": "2025-02-14 09:00:00+00:00",
+        "temperature_2m": "13.95",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "312.0",
+        "global_tilted_irradiance": "303.1366",
+        "state": "237.24034286295876"
+    },
+    {
+        "date": "2025-02-14 09:15:00+00:00",
+        "temperature_2m": "14.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "329.0",
+        "global_tilted_irradiance": "326.33914",
+        "state": "237.53709624608766"
+    },
+    {
+        "date": "2025-02-14 09:30:00+00:00",
+        "temperature_2m": "14.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "347.0",
+        "global_tilted_irradiance": "351.6385",
+        "state": "238.21635371462776"
+    },
+    {
+        "date": "2025-02-14 09:45:00+00:00",
+        "temperature_2m": "14.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "367.0",
+        "global_tilted_irradiance": "380.74066",
+        "state": "244.34333881245735"
+    },
+    {
+        "date": "2025-02-14 10:00:00+00:00",
+        "temperature_2m": "14.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "392.0",
+        "global_tilted_irradiance": "417.99435",
+        "state": "247.69176362577858"
+    },
+    {
+        "date": "2025-02-14 10:15:00+00:00",
+        "temperature_2m": "14.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "417.0",
+        "global_tilted_irradiance": "457.81644",
+        "state": "250.04869341192014"
+    },
+    {
+        "date": "2025-02-14 10:30:00+00:00",
+        "temperature_2m": "14.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "438.0",
+        "global_tilted_irradiance": "494.53848",
+        "state": "250.4798287876923"
+    },
+    {
+        "date": "2025-02-14 10:45:00+00:00",
+        "temperature_2m": "15.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "451.0",
+        "global_tilted_irradiance": "521.517",
+        "state": "254.74691670029546"
+    },
+    {
+        "date": "2025-02-14 11:00:00+00:00",
+        "temperature_2m": "15.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "456.0",
+        "global_tilted_irradiance": "537.5534",
+        "state": "266.18799916932676"
+    },
+    {
+        "date": "2025-02-14 11:15:00+00:00",
+        "temperature_2m": "15.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "457.0",
+        "global_tilted_irradiance": "547.7181",
+        "state": "265.96193029380197"
+    },
+    {
+        "date": "2025-02-14 11:30:00+00:00",
+        "temperature_2m": "15.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "455.0",
+        "global_tilted_irradiance": "553.756",
+        "state": "264.07341309295253"
+    },
+    {
+        "date": "2025-02-14 11:45:00+00:00",
+        "temperature_2m": "15.55",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "454.0",
+        "global_tilted_irradiance": "562.6591",
+        "state": "272.3050909010657"
+    },
+    {
+        "date": "2025-02-14 12:00:00+00:00",
+        "temperature_2m": "15.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "453.0",
+        "global_tilted_irradiance": "572.4878",
+        "state": "272.11706084358053"
+    },
+    {
+        "date": "2025-02-14 12:15:00+00:00",
+        "temperature_2m": "15.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "451.0",
+        "global_tilted_irradiance": "581.4192",
+        "state": "271.9809995227343"
+    },
+    {
+        "date": "2025-02-14 12:30:00+00:00",
+        "temperature_2m": "15.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "443.0",
+        "global_tilted_irradiance": "582.88",
+        "state": "274.02379978534776"
+    },
+    {
+        "date": "2025-02-14 12:45:00+00:00",
+        "temperature_2m": "15.55",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "429.0",
+        "global_tilted_irradiance": "575.77625",
+        "state": "267.501843327845"
+    },
+    {
+        "date": "2025-02-14 13:00:00+00:00",
+        "temperature_2m": "15.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "410.0",
+        "global_tilted_irradiance": "560.3914",
+        "state": "265.67922101359545"
+    },
+    {
+        "date": "2025-02-14 13:15:00+00:00",
+        "temperature_2m": "15.45",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "388.0",
+        "global_tilted_irradiance": "541.00543",
+        "state": "246.70598494740017"
+    },
+    {
+        "date": "2025-02-14 13:30:00+00:00",
+        "temperature_2m": "15.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "362.0",
+        "global_tilted_irradiance": "514.7631",
+        "state": "247.4325312067271"
+    },
+    {
+        "date": "2025-02-14 13:45:00+00:00",
+        "temperature_2m": "15.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "332.0",
+        "global_tilted_irradiance": "482.8527",
+        "state": "247.23796122766618"
+    },
+    {
+        "date": "2025-02-14 14:00:00+00:00",
+        "temperature_2m": "15.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "300.0",
+        "global_tilted_irradiance": "447.8197",
+        "state": "246.07631884399726"
+    },
+    {
+        "date": "2025-02-14 14:15:00+00:00",
+        "temperature_2m": "15.0",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "266.0",
+        "global_tilted_irradiance": "408.2568",
+        "state": "241.86805146264965"
+    },
+    {
+        "date": "2025-02-14 14:30:00+00:00",
+        "temperature_2m": "14.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "231.0",
+        "global_tilted_irradiance": "365.62534",
+        "state": "238.47684390405374"
+    },
+    {
+        "date": "2025-02-14 14:45:00+00:00",
+        "temperature_2m": "14.75",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "197.0",
+        "global_tilted_irradiance": "322.60983",
+        "state": "235.79468853526708"
+    },
+    {
+        "date": "2025-02-14 15:00:00+00:00",
+        "temperature_2m": "14.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "165.0",
+        "global_tilted_irradiance": "279.66257",
+        "state": "232.81011406072727"
+    },
+    {
+        "date": "2025-02-14 15:15:00+00:00",
+        "temperature_2m": "14.45",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "132.0",
+        "global_tilted_irradiance": "232.99005",
+        "state": "227.53034118315568"
+    },
+    {
+        "date": "2025-02-14 15:30:00+00:00",
+        "temperature_2m": "14.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "98.0",
+        "global_tilted_irradiance": "185.87611",
+        "state": "223.7619148376166"
+    },
+    {
+        "date": "2025-02-14 15:45:00+00:00",
+        "temperature_2m": "14.0",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "62.0",
+        "global_tilted_irradiance": "130.6728",
+        "state": "219.0203269293038"
+    },
+    {
+        "date": "2025-02-14 16:00:00+00:00",
+        "temperature_2m": "13.75",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "30.0",
+        "global_tilted_irradiance": "74.53556",
+        "state": "212.7064797747475"
+    },
+    {
+        "date": "2025-02-14 16:15:00+00:00",
+        "temperature_2m": "13.45",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "8.0",
+        "global_tilted_irradiance": "21.473778",
+        "state": "200.82081718887923"
+    },
+    {
+        "date": "2025-02-15 05:45:00+00:00",
+        "temperature_2m": "11.2",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "0.0",
+        "global_tilted_irradiance": "0.0",
+        "state": "302.6282232228416"
+    },
+    {
+        "date": "2025-02-15 06:00:00+00:00",
+        "temperature_2m": "11.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "5.0",
+        "global_tilted_irradiance": "4.732051",
+        "state": "301.0135490095248"
+    },
+    {
+        "date": "2025-02-15 06:15:00+00:00",
+        "temperature_2m": "11.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "19.0",
+        "global_tilted_irradiance": "17.981792",
+        "state": "295.5423580889527"
+    },
+    {
+        "date": "2025-02-15 06:30:00+00:00",
+        "temperature_2m": "11.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "39.0",
+        "global_tilted_irradiance": "35.976982",
+        "state": "285.9445026546606"
+    },
+    {
+        "date": "2025-02-15 06:45:00+00:00",
+        "temperature_2m": "11.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "65.0",
+        "global_tilted_irradiance": "55.918587",
+        "state": "275.81510881619306"
+    },
+    {
+        "date": "2025-02-15 07:00:00+00:00",
+        "temperature_2m": "12.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "93.0",
+        "global_tilted_irradiance": "77.438156",
+        "state": "268.4031181024054"
+    },
+    {
+        "date": "2025-02-15 07:15:00+00:00",
+        "temperature_2m": "12.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "127.0",
+        "global_tilted_irradiance": "104.966385",
+        "state": "260.3579390253289"
+    },
+    {
+        "date": "2025-02-15 07:30:00+00:00",
+        "temperature_2m": "12.55",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "161.0",
+        "global_tilted_irradiance": "135.0867",
+        "state": "256.2515287981605"
+    },
+    {
+        "date": "2025-02-15 07:45:00+00:00",
+        "temperature_2m": "12.75",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "192.0",
+        "global_tilted_irradiance": "164.74126",
+        "state": "253.25488101796213"
+    },
+    {
+        "date": "2025-02-15 08:00:00+00:00",
+        "temperature_2m": "12.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "220.0",
+        "global_tilted_irradiance": "192.88284",
+        "state": "252.84425746261155"
+    },
+    {
+        "date": "2025-02-15 08:15:00+00:00",
+        "temperature_2m": "13.05",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "244.0",
+        "global_tilted_irradiance": "219.43918",
+        "state": "252.86220268625343"
+    },
+    {
+        "date": "2025-02-15 08:30:00+00:00",
+        "temperature_2m": "13.15",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "263.0",
+        "global_tilted_irradiance": "243.23505",
+        "state": "254.87468342146732"
+    },
+    {
+        "date": "2025-02-15 08:45:00+00:00",
+        "temperature_2m": "13.25",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "277.0",
+        "global_tilted_irradiance": "263.2696",
+        "state": "256.26541110092853"
+    },
+    {
+        "date": "2025-02-15 09:00:00+00:00",
+        "temperature_2m": "13.3",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "284.0",
+        "global_tilted_irradiance": "275.63806",
+        "state": "257.861754608747"
+    },
+    {
+        "date": "2025-02-15 09:15:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.3",
+        "is_day": "1.0",
+        "shortwave_radiation": "284.0",
+        "global_tilted_irradiance": "279.059",
+        "state": "255.23387046796947"
+    },
+    {
+        "date": "2025-02-15 09:30:00+00:00",
+        "temperature_2m": "13.45",
+        "precipitation": "0.3",
+        "is_day": "1.0",
+        "shortwave_radiation": "284.0",
+        "global_tilted_irradiance": "280.5675",
+        "state": "253.8201180095426"
+    },
+    {
+        "date": "2025-02-15 09:45:00+00:00",
+        "temperature_2m": "13.55",
+        "precipitation": "0.3",
+        "is_day": "1.0",
+        "shortwave_radiation": "287.0",
+        "global_tilted_irradiance": "285.2966",
+        "state": "250.48020221425213"
+    },
+    {
+        "date": "2025-02-15 10:00:00+00:00",
+        "temperature_2m": "13.6",
+        "precipitation": "0.3",
+        "is_day": "1.0",
+        "shortwave_radiation": "291.0",
+        "global_tilted_irradiance": "291.65036",
+        "state": "250.26106719629576"
+    },
+    {
+        "date": "2025-02-15 10:15:00+00:00",
+        "temperature_2m": "13.7",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "296.0",
+        "global_tilted_irradiance": "300.10455",
+        "state": "248.5740830578181"
+    },
+    {
+        "date": "2025-02-15 10:30:00+00:00",
+        "temperature_2m": "13.85",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "304.0",
+        "global_tilted_irradiance": "313.1365",
+        "state": "246.28960168401042"
+    },
+    {
+        "date": "2025-02-15 10:45:00+00:00",
+        "temperature_2m": "13.95",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "316.0",
+        "global_tilted_irradiance": "332.60056",
+        "state": "247.5945205239562"
+    },
+    {
+        "date": "2025-02-15 11:00:00+00:00",
+        "temperature_2m": "14.0",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "337.0",
+        "global_tilted_irradiance": "365.4079",
+        "state": "253.75791750108166"
+    },
+    {
+        "date": "2025-02-15 11:15:00+00:00",
+        "temperature_2m": "14.05",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "359.0",
+        "global_tilted_irradiance": "402.29816",
+        "state": "262.83311826316145"
+    },
+    {
+        "date": "2025-02-15 11:30:00+00:00",
+        "temperature_2m": "14.1",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "376.0",
+        "global_tilted_irradiance": "434.4813",
+        "state": "268.5690913555625"
+    },
+    {
+        "date": "2025-02-15 11:45:00+00:00",
+        "temperature_2m": "14.1",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "379.0",
+        "global_tilted_irradiance": "448.65228",
+        "state": "271.72847397699167"
+    },
+    {
+        "date": "2025-02-15 12:00:00+00:00",
+        "temperature_2m": "14.05",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "371.0",
+        "global_tilted_irradiance": "447.70624",
+        "state": "274.29946590097103"
+    },
+    {
+        "date": "2025-02-15 12:15:00+00:00",
+        "temperature_2m": "14.05",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "356.0",
+        "global_tilted_irradiance": "436.43445",
+        "state": "272.76227806957047"
+    },
+    {
+        "date": "2025-02-15 12:30:00+00:00",
+        "temperature_2m": "14.0",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "341.0",
+        "global_tilted_irradiance": "424.29224",
+        "state": "273.18430808885665"
+    },
+    {
+        "date": "2025-02-15 12:45:00+00:00",
+        "temperature_2m": "13.9",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "328.0",
+        "global_tilted_irradiance": "415.74667",
+        "state": "276.1051632105324"
+    },
+    {
+        "date": "2025-02-15 13:00:00+00:00",
+        "temperature_2m": "13.85",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "314.0",
+        "global_tilted_irradiance": "405.58972",
+        "state": "276.49569220038734"
+    },
+    {
+        "date": "2025-02-15 13:15:00+00:00",
+        "temperature_2m": "13.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "300.0",
+        "global_tilted_irradiance": "395.45782",
+        "state": "274.27200024234065"
+    },
+    {
+        "date": "2025-02-15 13:30:00+00:00",
+        "temperature_2m": "13.8",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "285.0",
+        "global_tilted_irradiance": "385.35352",
+        "state": "275.40484672240257"
+    },
+    {
+        "date": "2025-02-15 13:45:00+00:00",
+        "temperature_2m": "13.75",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "269.0",
+        "global_tilted_irradiance": "375.63553",
+        "state": "276.8704815041092"
+    },
+    {
+        "date": "2025-02-15 14:00:00+00:00",
+        "temperature_2m": "13.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "256.0",
+        "global_tilted_irradiance": "374.7439",
+        "state": "280.58755805616016"
+    },
+    {
+        "date": "2025-02-15 14:15:00+00:00",
+        "temperature_2m": "13.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "240.0",
+        "global_tilted_irradiance": "370.9638",
+        "state": "283.9588920901676"
+    },
+    {
+        "date": "2025-02-15 14:30:00+00:00",
+        "temperature_2m": "13.55",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "218.0",
+        "global_tilted_irradiance": "356.27954",
+        "state": "286.96800811101843"
+    },
+    {
+        "date": "2025-02-15 14:45:00+00:00",
+        "temperature_2m": "13.45",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "188.0",
+        "global_tilted_irradiance": "322.22525",
+        "state": "285.633588242698"
+    },
+    {
+        "date": "2025-02-15 15:00:00+00:00",
+        "temperature_2m": "13.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "155.0",
+        "global_tilted_irradiance": "274.8205",
+        "state": "281.6302649684709"
+    },
+    {
+        "date": "2025-02-15 15:15:00+00:00",
+        "temperature_2m": "13.15",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "120.0",
+        "global_tilted_irradiance": "219.31934",
+        "state": "274.56945319121826"
+    },
+    {
+        "date": "2025-02-15 15:30:00+00:00",
+        "temperature_2m": "12.95",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "87.0",
+        "global_tilted_irradiance": "165.29344",
+        "state": "269.21483565222985"
+    },
+    {
+        "date": "2025-02-15 15:45:00+00:00",
+        "temperature_2m": "12.75",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "55.0",
+        "global_tilted_irradiance": "114.69757",
+        "state": "265.0653058339384"
+    },
+    {
+        "date": "2025-02-15 16:00:00+00:00",
+        "temperature_2m": "12.55",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "27.0",
+        "global_tilted_irradiance": "65.5413",
+        "state": "260.87948993789337"
+    },
+    {
+        "date": "2025-02-15 16:15:00+00:00",
+        "temperature_2m": "12.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "8.0",
+        "global_tilted_irradiance": "21.026226",
+        "state": "256.31715037353837"
+    },
+    {
+        "date": "2025-02-16 05:45:00+00:00",
+        "temperature_2m": "11.2",
+        "precipitation": "0.3",
+        "is_day": "1.0",
+        "shortwave_radiation": "0.0",
+        "global_tilted_irradiance": "0.0",
+        "state": "302.62612181813813"
+    },
+    {
+        "date": "2025-02-16 06:00:00+00:00",
+        "temperature_2m": "11.2",
+        "precipitation": "0.3",
+        "is_day": "1.0",
+        "shortwave_radiation": "2.0",
+        "global_tilted_irradiance": "1.8928204",
+        "state": "302.79315962774814"
+    },
+    {
+        "date": "2025-02-16 06:15:00+00:00",
+        "temperature_2m": "11.25",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "8.0",
+        "global_tilted_irradiance": "6.6382685",
+        "state": "300.93602707043243"
+    },
+    {
+        "date": "2025-02-16 06:30:00+00:00",
+        "temperature_2m": "11.35",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "15.0",
+        "global_tilted_irradiance": "13.26314",
+        "state": "297.0685563189641"
+    },
+    {
+        "date": "2025-02-16 06:45:00+00:00",
+        "temperature_2m": "11.45",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "25.0",
+        "global_tilted_irradiance": "20.861216",
+        "state": "292.8100582640672"
+    },
+    {
+        "date": "2025-02-16 07:00:00+00:00",
+        "temperature_2m": "11.55",
+        "precipitation": "0.2",
+        "is_day": "1.0",
+        "shortwave_radiation": "39.0",
+        "global_tilted_irradiance": "32.410484",
+        "state": "289.08006000052717"
+    },
+    {
+        "date": "2025-02-16 07:15:00+00:00",
+        "temperature_2m": "11.7",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "53.0",
+        "global_tilted_irradiance": "45.277386",
+        "state": "283.7095982526065"
+    },
+    {
+        "date": "2025-02-16 07:30:00+00:00",
+        "temperature_2m": "11.8",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "69.0",
+        "global_tilted_irradiance": "60.18387",
+        "state": "281.04255288654986"
+    },
+    {
+        "date": "2025-02-16 07:45:00+00:00",
+        "temperature_2m": "11.95",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "81.0",
+        "global_tilted_irradiance": "72.454155",
+        "state": "276.2131263548258"
+    },
+    {
+        "date": "2025-02-16 08:00:00+00:00",
+        "temperature_2m": "12.05",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "88.0",
+        "global_tilted_irradiance": "80.62642",
+        "state": "273.2648707764993"
+    },
+    {
+        "date": "2025-02-16 08:15:00+00:00",
+        "temperature_2m": "12.15",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "91.0",
+        "global_tilted_irradiance": "84.74441",
+        "state": "269.7308172643387"
+    },
+    {
+        "date": "2025-02-16 08:30:00+00:00",
+        "temperature_2m": "12.25",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "95.0",
+        "global_tilted_irradiance": "89.39906",
+        "state": "266.24167259141166"
+    },
+    {
+        "date": "2025-02-16 08:45:00+00:00",
+        "temperature_2m": "12.3",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "102.0",
+        "global_tilted_irradiance": "96.58324",
+        "state": "265.2684036874492"
+    },
+    {
+        "date": "2025-02-16 09:00:00+00:00",
+        "temperature_2m": "12.4",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "113.0",
+        "global_tilted_irradiance": "107.60394",
+        "state": "262.75088665196984"
+    },
+    {
+        "date": "2025-02-16 09:15:00+00:00",
+        "temperature_2m": "12.55",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "125.0",
+        "global_tilted_irradiance": "119.810005",
+        "state": "258.3488575435839"
+    },
+    {
+        "date": "2025-02-16 09:30:00+00:00",
+        "temperature_2m": "12.75",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "136.0",
+        "global_tilted_irradiance": "131.28404",
+        "state": "251.8635789961139"
+    },
+    {
+        "date": "2025-02-16 09:45:00+00:00",
+        "temperature_2m": "12.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "148.0",
+        "global_tilted_irradiance": "144.09012",
+        "state": "248.04051658679782"
+    },
+    {
+        "date": "2025-02-16 10:00:00+00:00",
+        "temperature_2m": "13.05",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "162.0",
+        "global_tilted_irradiance": "159.28355",
+        "state": "244.92411257548972"
+    },
+    {
+        "date": "2025-02-16 10:15:00+00:00",
+        "temperature_2m": "13.2",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "173.0",
+        "global_tilted_irradiance": "171.72354",
+        "state": "241.45306088097698"
+    },
+    {
+        "date": "2025-02-16 10:30:00+00:00",
+        "temperature_2m": "13.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "182.0",
+        "global_tilted_irradiance": "182.54227",
+        "state": "237.85516829777822"
+    },
+    {
+        "date": "2025-02-16 10:45:00+00:00",
+        "temperature_2m": "13.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "184.0",
+        "global_tilted_irradiance": "185.69588",
+        "state": "232.6157806695867"
+    },
+    {
+        "date": "2025-02-16 11:00:00+00:00",
+        "temperature_2m": "13.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "177.0",
+        "global_tilted_irradiance": "178.87221",
+        "state": "227.17113453516205"
+    },
+    {
+        "date": "2025-02-16 11:15:00+00:00",
+        "temperature_2m": "13.75",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "169.0",
+        "global_tilted_irradiance": "170.82814",
+        "state": "219.44838435143993"
+    },
+    {
+        "date": "2025-02-16 11:30:00+00:00",
+        "temperature_2m": "13.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "158.0",
+        "global_tilted_irradiance": "159.23273",
+        "state": "212.91678822096281"
+    },
+    {
+        "date": "2025-02-16 11:45:00+00:00",
+        "temperature_2m": "13.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "153.0",
+        "global_tilted_irradiance": "154.40302",
+        "state": "209.98481982336307"
+    },
+    {
+        "date": "2025-02-16 12:00:00+00:00",
+        "temperature_2m": "13.95",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "150.0",
+        "global_tilted_irradiance": "152.3869",
+        "state": "207.8472178117573"
+    },
+    {
+        "date": "2025-02-16 12:15:00+00:00",
+        "temperature_2m": "14.0",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "148.0",
+        "global_tilted_irradiance": "151.93262",
+        "state": "206.19016331578501"
+    },
+    {
+        "date": "2025-02-16 12:30:00+00:00",
+        "temperature_2m": "13.95",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "145.0",
+        "global_tilted_irradiance": "150.68988",
+        "state": "208.34042014904136"
+    },
+    {
+        "date": "2025-02-16 12:45:00+00:00",
+        "temperature_2m": "13.9",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "140.0",
+        "global_tilted_irradiance": "147.07849",
+        "state": "209.9351534896901"
+    },
+    {
+        "date": "2025-02-16 13:00:00+00:00",
+        "temperature_2m": "13.85",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "134.0",
+        "global_tilted_irradiance": "142.6329",
+        "state": "211.42774103339022"
+    },
+    {
+        "date": "2025-02-16 13:15:00+00:00",
+        "temperature_2m": "13.8",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "127.0",
+        "global_tilted_irradiance": "137.38293",
+        "state": "212.83883758383442"
+    },
+    {
+        "date": "2025-02-16 13:30:00+00:00",
+        "temperature_2m": "13.7",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "119.0",
+        "global_tilted_irradiance": "130.51581",
+        "state": "215.82483559403707"
+    },
+    {
+        "date": "2025-02-16 13:45:00+00:00",
+        "temperature_2m": "13.6",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "112.0",
+        "global_tilted_irradiance": "125.6006",
+        "state": "219.4971197292243"
+    },
+    {
+        "date": "2025-02-16 14:00:00+00:00",
+        "temperature_2m": "13.5",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "103.0",
+        "global_tilted_irradiance": "118.058815",
+        "state": "222.5811244867019"
+    },
+    {
+        "date": "2025-02-16 14:15:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "94.0",
+        "global_tilted_irradiance": "109.54319",
+        "state": "225.30863504421342"
+    },
+    {
+        "date": "2025-02-16 14:30:00+00:00",
+        "temperature_2m": "13.3",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "85.0",
+        "global_tilted_irradiance": "102.27561",
+        "state": "228.66963649380983"
+    },
+    {
+        "date": "2025-02-16 14:45:00+00:00",
+        "temperature_2m": "13.15",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "75.0",
+        "global_tilted_irradiance": "92.92579",
+        "state": "233.58271038290084"
+    },
+    {
+        "date": "2025-02-16 15:00:00+00:00",
+        "temperature_2m": "13.0",
+        "precipitation": "0.1",
+        "is_day": "1.0",
+        "shortwave_radiation": "65.0",
+        "global_tilted_irradiance": "83.61132",
+        "state": "238.64468805151319"
+    },
+    {
+        "date": "2025-02-16 15:15:00+00:00",
+        "temperature_2m": "12.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "56.0",
+        "global_tilted_irradiance": "77.35693",
+        "state": "244.87204230297908"
+    },
+    {
+        "date": "2025-02-16 15:30:00+00:00",
+        "temperature_2m": "12.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "45.0",
+        "global_tilted_irradiance": "65.33206",
+        "state": "249.29452656504014"
+    },
+    {
+        "date": "2025-02-16 15:45:00+00:00",
+        "temperature_2m": "12.55",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "34.0",
+        "global_tilted_irradiance": "55.75398",
+        "state": "254.62094382639208"
+    },
+    {
+        "date": "2025-02-16 16:00:00+00:00",
+        "temperature_2m": "12.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "21.0",
+        "global_tilted_irradiance": "39.37638",
+        "state": "260.18532048860226"
+    },
+    {
+        "date": "2025-02-16 16:15:00+00:00",
+        "temperature_2m": "12.15",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "10.0",
+        "global_tilted_irradiance": "22.497543",
+        "state": "265.38687602459663"
+    },
+    {
+        "date": "2025-02-17 05:45:00+00:00",
+        "temperature_2m": "9.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "0.0",
+        "global_tilted_irradiance": "0.0",
+        "state": "443.42827899077145"
+    },
+    {
+        "date": "2025-02-17 06:00:00+00:00",
+        "temperature_2m": "9.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "5.0",
+        "global_tilted_irradiance": "4.732051",
+        "state": "443.68611650619647"
+    },
+    {
+        "date": "2025-02-17 06:15:00+00:00",
+        "temperature_2m": "9.55",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "14.0",
+        "global_tilted_irradiance": "12.3167305",
+        "state": "443.5771487894188"
+    },
+    {
+        "date": "2025-02-17 06:30:00+00:00",
+        "temperature_2m": "9.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "25.0",
+        "global_tilted_irradiance": "21.79423",
+        "state": "444.1092928539894"
+    },
+    {
+        "date": "2025-02-17 06:45:00+00:00",
+        "temperature_2m": "9.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "38.0",
+        "global_tilted_irradiance": "32.231537",
+        "state": "442.15443632599874"
+    },
+    {
+        "date": "2025-02-17 07:00:00+00:00",
+        "temperature_2m": "10.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "52.0",
+        "global_tilted_irradiance": "44.004",
+        "state": "442.0823785955338"
+    },
+    {
+        "date": "2025-02-17 07:15:00+00:00",
+        "temperature_2m": "10.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "68.0",
+        "global_tilted_irradiance": "58.94605",
+        "state": "442.03608673331934"
+    },
+    {
+        "date": "2025-02-17 07:30:00+00:00",
+        "temperature_2m": "10.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "85.0",
+        "global_tilted_irradiance": "74.92239",
+        "state": "443.349881224268"
+    },
+    {
+        "date": "2025-02-17 07:45:00+00:00",
+        "temperature_2m": "10.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "103.0",
+        "global_tilted_irradiance": "92.39779",
+        "state": "327.2559462701829"
+    },
+    {
+        "date": "2025-02-17 08:00:00+00:00",
+        "temperature_2m": "11.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "123.0",
+        "global_tilted_irradiance": "111.97776",
+        "state": "319.45761179859863"
+    },
+    {
+        "date": "2025-02-17 08:15:00+00:00",
+        "temperature_2m": "11.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "141.0",
+        "global_tilted_irradiance": "130.252",
+        "state": "311.7188455927338"
+    },
+    {
+        "date": "2025-02-17 08:30:00+00:00",
+        "temperature_2m": "11.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "161.0",
+        "global_tilted_irradiance": "150.6236",
+        "state": "304.50188999007946"
+    },
+    {
+        "date": "2025-02-17 08:45:00+00:00",
+        "temperature_2m": "11.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "178.0",
+        "global_tilted_irradiance": "168.49864",
+        "state": "297.1136611216292"
+    },
+    {
+        "date": "2025-02-17 09:00:00+00:00",
+        "temperature_2m": "12.05",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "194.0",
+        "global_tilted_irradiance": "185.63892",
+        "state": "291.91668880143834"
+    },
+    {
+        "date": "2025-02-17 09:15:00+00:00",
+        "temperature_2m": "12.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "208.0",
+        "global_tilted_irradiance": "200.99611",
+        "state": "284.47550019526614"
+    },
+    {
+        "date": "2025-02-17 09:30:00+00:00",
+        "temperature_2m": "12.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "221.0",
+        "global_tilted_irradiance": "215.52893",
+        "state": "279.1240213278942"
+    },
+    {
+        "date": "2025-02-17 09:45:00+00:00",
+        "temperature_2m": "12.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "232.0",
+        "global_tilted_irradiance": "228.12473",
+        "state": "275.63966900512094"
+    },
+    {
+        "date": "2025-02-17 10:00:00+00:00",
+        "temperature_2m": "12.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "242.0",
+        "global_tilted_irradiance": "240.06184",
+        "state": "270.06687443927456"
+    },
+    {
+        "date": "2025-02-17 10:15:00+00:00",
+        "temperature_2m": "13.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "250.0",
+        "global_tilted_irradiance": "249.76376",
+        "state": "262.0356930743062"
+    },
+    {
+        "date": "2025-02-17 10:30:00+00:00",
+        "temperature_2m": "13.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "257.0",
+        "global_tilted_irradiance": "258.84497",
+        "state": "256.14886298231266"
+    },
+    {
+        "date": "2025-02-17 10:45:00+00:00",
+        "temperature_2m": "13.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "262.0",
+        "global_tilted_irradiance": "266.1629",
+        "state": "250.06117768043887"
+    },
+    {
+        "date": "2025-02-17 11:00:00+00:00",
+        "temperature_2m": "13.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "267.0",
+        "global_tilted_irradiance": "273.6326",
+        "state": "246.13117304960562"
+    },
+    {
+        "date": "2025-02-17 11:15:00+00:00",
+        "temperature_2m": "13.8",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "271.0",
+        "global_tilted_irradiance": "280.33255",
+        "state": "242.1570253154827"
+    },
+    {
+        "date": "2025-02-17 11:30:00+00:00",
+        "temperature_2m": "13.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "274.0",
+        "global_tilted_irradiance": "286.727",
+        "state": "239.531679037934"
+    },
+    {
+        "date": "2025-02-17 11:45:00+00:00",
+        "temperature_2m": "14.0",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "276.0",
+        "global_tilted_irradiance": "292.49258",
+        "state": "237.5727832987696"
+    },
+    {
+        "date": "2025-02-17 12:00:00+00:00",
+        "temperature_2m": "14.05",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "278.0",
+        "global_tilted_irradiance": "299.1371",
+        "state": "237.86482969103002"
+    },
+    {
+        "date": "2025-02-17 12:15:00+00:00",
+        "temperature_2m": "14.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "278.0",
+        "global_tilted_irradiance": "304.39713",
+        "state": "237.9708655645727"
+    },
+    {
+        "date": "2025-02-17 12:30:00+00:00",
+        "temperature_2m": "14.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "277.0",
+        "global_tilted_irradiance": "309.30118",
+        "state": "239.9805820689078"
+    },
+    {
+        "date": "2025-02-17 12:45:00+00:00",
+        "temperature_2m": "14.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "274.0",
+        "global_tilted_irradiance": "312.35266",
+        "state": "241.63273502679425"
+    },
+    {
+        "date": "2025-02-17 13:00:00+00:00",
+        "temperature_2m": "14.05",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "270.0",
+        "global_tilted_irradiance": "315.17767",
+        "state": "245.23971289536854"
+    },
+    {
+        "date": "2025-02-17 13:15:00+00:00",
+        "temperature_2m": "14.0",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "264.0",
+        "global_tilted_irradiance": "316.21796",
+        "state": "248.5468344242818"
+    },
+    {
+        "date": "2025-02-17 13:30:00+00:00",
+        "temperature_2m": "13.95",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "256.0",
+        "global_tilted_irradiance": "315.4771",
+        "state": "251.5757093461836"
+    },
+    {
+        "date": "2025-02-17 13:45:00+00:00",
+        "temperature_2m": "13.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "243.0",
+        "global_tilted_irradiance": "308.29312",
+        "state": "255.12615151066754"
+    },
+    {
+        "date": "2025-02-17 14:00:00+00:00",
+        "temperature_2m": "13.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "230.0",
+        "global_tilted_irradiance": "301.92285",
+        "state": "261.51397636182674"
+    },
+    {
+        "date": "2025-02-17 14:15:00+00:00",
+        "temperature_2m": "13.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "212.0",
+        "global_tilted_irradiance": "288.55325",
+        "state": "263.9052926813617"
+    },
+    {
+        "date": "2025-02-17 14:30:00+00:00",
+        "temperature_2m": "13.45",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "192.0",
+        "global_tilted_irradiance": "272.7669",
+        "state": "267.8341306313848"
+    },
+    {
+        "date": "2025-02-17 14:45:00+00:00",
+        "temperature_2m": "13.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "170.0",
+        "global_tilted_irradiance": "252.97905",
+        "state": "270.7995645886369"
+    },
+    {
+        "date": "2025-02-17 15:00:00+00:00",
+        "temperature_2m": "13.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "146.0",
+        "global_tilted_irradiance": "229.94423",
+        "state": "275.0884559490087"
+    },
+    {
+        "date": "2025-02-17 15:15:00+00:00",
+        "temperature_2m": "12.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "121.0",
+        "global_tilted_irradiance": "203.95265",
+        "state": "278.6533009471498"
+    },
+    {
+        "date": "2025-02-17 15:30:00+00:00",
+        "temperature_2m": "12.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "95.0",
+        "global_tilted_irradiance": "176.16147",
+        "state": "281.9853753107822"
+    },
+    {
+        "date": "2025-02-17 15:45:00+00:00",
+        "temperature_2m": "12.45",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "69.0",
+        "global_tilted_irradiance": "146.84547",
+        "state": "287.0356380646205"
+    },
+    {
+        "date": "2025-02-17 16:00:00+00:00",
+        "temperature_2m": "12.15",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "45.0",
+        "global_tilted_irradiance": "118.699135",
+        "state": "294.60527958497596"
+    },
+    {
+        "date": "2025-02-17 16:15:00+00:00",
+        "temperature_2m": "11.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "20.0",
+        "global_tilted_irradiance": "63.13447",
+        "state": "290.26504200784575"
+    },
+    {
+        "date": "2025-02-18 05:45:00+00:00",
+        "temperature_2m": "8.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "0.0",
+        "global_tilted_irradiance": "0.0",
+        "state": "443.711529957736"
+    },
+    {
+        "date": "2025-02-18 06:00:00+00:00",
+        "temperature_2m": "8.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "5.0",
+        "global_tilted_irradiance": "4.732051",
+        "state": "443.97321558762434"
+    },
+    {
+        "date": "2025-02-18 06:15:00+00:00",
+        "temperature_2m": "8.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "11.0",
+        "global_tilted_irradiance": "10.410512",
+        "state": "443.9779198107133"
+    },
+    {
+        "date": "2025-02-18 06:30:00+00:00",
+        "temperature_2m": "8.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "17.0",
+        "global_tilted_irradiance": "16.088974",
+        "state": "443.98295112160685"
+    },
+    {
+        "date": "2025-02-18 06:45:00+00:00",
+        "temperature_2m": "8.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "49.0",
+        "global_tilted_irradiance": "36.11096",
+        "state": "443.98270721485136"
+    },
+    {
+        "date": "2025-02-18 07:00:00+00:00",
+        "temperature_2m": "9.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "71.0",
+        "global_tilted_irradiance": "53.90444",
+        "state": "442.5115964812676"
+    },
+    {
+        "date": "2025-02-18 07:15:00+00:00",
+        "temperature_2m": "10.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "98.0",
+        "global_tilted_irradiance": "78.18569",
+        "state": "442.91025612860335"
+    },
+    {
+        "date": "2025-02-18 07:30:00+00:00",
+        "temperature_2m": "10.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "127.0",
+        "global_tilted_irradiance": "105.57672",
+        "state": "444.0119608991481"
+    },
+    {
+        "date": "2025-02-18 07:45:00+00:00",
+        "temperature_2m": "10.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "158.0",
+        "global_tilted_irradiance": "135.6042",
+        "state": "443.3710838104852"
+    },
+    {
+        "date": "2025-02-18 08:00:00+00:00",
+        "temperature_2m": "10.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "190.0",
+        "global_tilted_irradiance": "167.90256",
+        "state": "336.8237747755367"
+    },
+    {
+        "date": "2025-02-18 08:15:00+00:00",
+        "temperature_2m": "11.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "223.0",
+        "global_tilted_irradiance": "201.94211",
+        "state": "332.6704752281615"
+    },
+    {
+        "date": "2025-02-18 08:30:00+00:00",
+        "temperature_2m": "11.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "254.0",
+        "global_tilted_irradiance": "235.26598",
+        "state": "330.9141240547271"
+    },
+    {
+        "date": "2025-02-18 08:45:00+00:00",
+        "temperature_2m": "11.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "284.0",
+        "global_tilted_irradiance": "268.4974",
+        "state": "329.4409460422858"
+    },
+    {
+        "date": "2025-02-18 09:00:00+00:00",
+        "temperature_2m": "11.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "310.0",
+        "global_tilted_irradiance": "298.82352",
+        "state": "327.6514275941202"
+    },
+    {
+        "date": "2025-02-18 09:15:00+00:00",
+        "temperature_2m": "11.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "333.0",
+        "global_tilted_irradiance": "327.04388",
+        "state": "325.2216887361645"
+    },
+    {
+        "date": "2025-02-18 09:30:00+00:00",
+        "temperature_2m": "12.05",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "353.0",
+        "global_tilted_irradiance": "353.13983",
+        "state": "324.7867088744323"
+    },
+    {
+        "date": "2025-02-18 09:45:00+00:00",
+        "temperature_2m": "12.2",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "371.0",
+        "global_tilted_irradiance": "378.0605",
+        "state": "324.1332874378446"
+    },
+    {
+        "date": "2025-02-18 10:00:00+00:00",
+        "temperature_2m": "12.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "385.0",
+        "global_tilted_irradiance": "399.71945",
+        "state": "323.6808247314872"
+    },
+    {
+        "date": "2025-02-18 10:15:00+00:00",
+        "temperature_2m": "12.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "396.0",
+        "global_tilted_irradiance": "419.2341",
+        "state": "322.5187567205675"
+    },
+    {
+        "date": "2025-02-18 10:30:00+00:00",
+        "temperature_2m": "12.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "404.0",
+        "global_tilted_irradiance": "436.08432",
+        "state": "320.3816954114902"
+    },
+    {
+        "date": "2025-02-18 10:45:00+00:00",
+        "temperature_2m": "12.8",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "412.0",
+        "global_tilted_irradiance": "453.91696",
+        "state": "318.6186012258374"
+    },
+    {
+        "date": "2025-02-18 11:00:00+00:00",
+        "temperature_2m": "12.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "417.0",
+        "global_tilted_irradiance": "468.6534",
+        "state": "318.8865024130999"
+    },
+    {
+        "date": "2025-02-18 11:15:00+00:00",
+        "temperature_2m": "13.0",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "420.0",
+        "global_tilted_irradiance": "482.18176",
+        "state": "317.97958980789065"
+    },
+    {
+        "date": "2025-02-18 11:30:00+00:00",
+        "temperature_2m": "13.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "422.0",
+        "global_tilted_irradiance": "495.1226",
+        "state": "316.9230454259224"
+    },
+    {
+        "date": "2025-02-18 11:45:00+00:00",
+        "temperature_2m": "13.2",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "424.0",
+        "global_tilted_irradiance": "508.89774",
+        "state": "316.3440823755375"
+    },
+    {
+        "date": "2025-02-18 12:00:00+00:00",
+        "temperature_2m": "13.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "424.0",
+        "global_tilted_irradiance": "520.7409",
+        "state": "316.98858991955353"
+    },
+    {
+        "date": "2025-02-18 12:15:00+00:00",
+        "temperature_2m": "13.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "423.0",
+        "global_tilted_irradiance": "532.61725",
+        "state": "318.15946046065585"
+    },
+    {
+        "date": "2025-02-18 12:30:00+00:00",
+        "temperature_2m": "13.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "419.0",
+        "global_tilted_irradiance": "541.04034",
+        "state": "318.51598378672435"
+    },
+    {
+        "date": "2025-02-18 12:45:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "413.0",
+        "global_tilted_irradiance": "548.04767",
+        "state": "318.817204597133"
+    },
+    {
+        "date": "2025-02-18 13:00:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "404.0",
+        "global_tilted_irradiance": "552.0968",
+        "state": "320.7956591035415"
+    },
+    {
+        "date": "2025-02-18 13:15:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "393.0",
+        "global_tilted_irradiance": "554.86127",
+        "state": "322.79549805505087"
+    },
+    {
+        "date": "2025-02-18 13:30:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "377.0",
+        "global_tilted_irradiance": "550.3586",
+        "state": "323.51689163485463"
+    },
+    {
+        "date": "2025-02-18 13:45:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "357.0",
+        "global_tilted_irradiance": "540.6653",
+        "state": "323.7201137732096"
+    },
+    {
+        "date": "2025-02-18 14:00:00+00:00",
+        "temperature_2m": "13.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "334.0",
+        "global_tilted_irradiance": "526.38214",
+        "state": "325.4424231208301"
+    },
+    {
+        "date": "2025-02-18 14:15:00+00:00",
+        "temperature_2m": "13.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "307.0",
+        "global_tilted_irradiance": "506.10135",
+        "state": "325.5554789164235"
+    },
+    {
+        "date": "2025-02-18 14:30:00+00:00",
+        "temperature_2m": "13.2",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "277.0",
+        "global_tilted_irradiance": "480.12082",
+        "state": "326.90693893141923"
+    },
+    {
+        "date": "2025-02-18 14:45:00+00:00",
+        "temperature_2m": "13.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "244.0",
+        "global_tilted_irradiance": "447.46075",
+        "state": "326.2269830209046"
+    },
+    {
+        "date": "2025-02-18 15:00:00+00:00",
+        "temperature_2m": "12.95",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "208.0",
+        "global_tilted_irradiance": "408.18307",
+        "state": "327.03140896706293"
+    },
+    {
+        "date": "2025-02-18 15:15:00+00:00",
+        "temperature_2m": "12.75",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "169.0",
+        "global_tilted_irradiance": "360.42297",
+        "state": "327.79182937843314"
+    },
+    {
+        "date": "2025-02-18 15:30:00+00:00",
+        "temperature_2m": "12.55",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "133.0",
+        "global_tilted_irradiance": "315.78897",
+        "state": "328.42189320238407"
+    },
+    {
+        "date": "2025-02-18 15:45:00+00:00",
+        "temperature_2m": "12.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "97.0",
+        "global_tilted_irradiance": "268.81525",
+        "state": "330.0224700014994"
+    },
+    {
+        "date": "2025-02-18 16:00:00+00:00",
+        "temperature_2m": "12.0",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "61.0",
+        "global_tilted_irradiance": "215.57802",
+        "state": "331.457867401931"
+    },
+    {
+        "date": "2025-02-18 16:15:00+00:00",
+        "temperature_2m": "11.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "28.0",
+        "global_tilted_irradiance": "118.45488",
+        "state": "317.32082783419617"
+    },
+    {
+        "date": "2025-02-19 05:45:00+00:00",
+        "temperature_2m": "6.8",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "0.0",
+        "global_tilted_irradiance": "0.0",
+        "state": "450.2962225154173"
+    },
+    {
+        "date": "2025-02-19 06:00:00+00:00",
+        "temperature_2m": "6.9",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "7.0",
+        "global_tilted_irradiance": "4.7588463",
+        "state": "450.79342487740143"
+    },
+    {
+        "date": "2025-02-19 06:15:00+00:00",
+        "temperature_2m": "7.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "21.0",
+        "global_tilted_irradiance": "11.477499",
+        "state": "450.5109423379681"
+    },
+    {
+        "date": "2025-02-19 06:30:00+00:00",
+        "temperature_2m": "7.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "41.0",
+        "global_tilted_irradiance": "19.20955",
+        "state": "445.13859335464855"
+    },
+    {
+        "date": "2025-02-19 06:45:00+00:00",
+        "temperature_2m": "7.65",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "68.0",
+        "global_tilted_irradiance": "27.968395",
+        "state": "444.7541886922372"
+    },
+    {
+        "date": "2025-02-19 07:00:00+00:00",
+        "temperature_2m": "7.95",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "100.0",
+        "global_tilted_irradiance": "49.22658",
+        "state": "444.5944834447897"
+    },
+    {
+        "date": "2025-02-19 07:15:00+00:00",
+        "temperature_2m": "8.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "142.0",
+        "global_tilted_irradiance": "84.393875",
+        "state": "444.3155538433123"
+    },
+    {
+        "date": "2025-02-19 07:30:00+00:00",
+        "temperature_2m": "8.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "187.0",
+        "global_tilted_irradiance": "126.74495",
+        "state": "444.018019274626"
+    },
+    {
+        "date": "2025-02-19 07:45:00+00:00",
+        "temperature_2m": "9.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "235.0",
+        "global_tilted_irradiance": "175.78201",
+        "state": "443.72247639966093"
+    },
+    {
+        "date": "2025-02-19 08:00:00+00:00",
+        "temperature_2m": "9.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "285.0",
+        "global_tilted_irradiance": "229.94406",
+        "state": "443.39177334823944"
+    },
+    {
+        "date": "2025-02-19 08:15:00+00:00",
+        "temperature_2m": "9.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "336.0",
+        "global_tilted_irradiance": "288.10178",
+        "state": "443.04150160306506"
+    },
+    {
+        "date": "2025-02-19 08:30:00+00:00",
+        "temperature_2m": "10.2",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "384.0",
+        "global_tilted_irradiance": "346.33377",
+        "state": "443.18775051325576"
+    },
+    {
+        "date": "2025-02-19 08:45:00+00:00",
+        "temperature_2m": "10.55",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "427.0",
+        "global_tilted_irradiance": "402.09454",
+        "state": "444.27073156042763"
+    },
+    {
+        "date": "2025-02-19 09:00:00+00:00",
+        "temperature_2m": "10.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "464.0",
+        "global_tilted_irradiance": "453.5963",
+        "state": "383.88985599352003"
+    },
+    {
+        "date": "2025-02-19 09:15:00+00:00",
+        "temperature_2m": "11.15",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "494.0",
+        "global_tilted_irradiance": "499.13477",
+        "state": "381.9673307687795"
+    },
+    {
+        "date": "2025-02-19 09:30:00+00:00",
+        "temperature_2m": "11.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "519.0",
+        "global_tilted_irradiance": "540.17255",
+        "state": "382.1395001190598"
+    },
+    {
+        "date": "2025-02-19 09:45:00+00:00",
+        "temperature_2m": "11.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "541.0",
+        "global_tilted_irradiance": "578.4172",
+        "state": "388.7997351109569"
+    },
+    {
+        "date": "2025-02-19 10:00:00+00:00",
+        "temperature_2m": "11.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "556.0",
+        "global_tilted_irradiance": "609.47253",
+        "state": "387.3764420387239"
+    },
+    {
+        "date": "2025-02-19 10:15:00+00:00",
+        "temperature_2m": "12.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "567.0",
+        "global_tilted_irradiance": "636.02655",
+        "state": "384.61657613522743"
+    },
+    {
+        "date": "2025-02-19 10:30:00+00:00",
+        "temperature_2m": "12.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "573.0",
+        "global_tilted_irradiance": "657.1471",
+        "state": "381.37720884023247"
+    },
+    {
+        "date": "2025-02-19 10:45:00+00:00",
+        "temperature_2m": "12.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "577.0",
+        "global_tilted_irradiance": "675.8351",
+        "state": "377.8413651588467"
+    },
+    {
+        "date": "2025-02-19 11:00:00+00:00",
+        "temperature_2m": "12.7",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "576.0",
+        "global_tilted_irradiance": "688.85126",
+        "state": "384.71215745976474"
+    },
+    {
+        "date": "2025-02-19 11:15:00+00:00",
+        "temperature_2m": "12.85",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "573.0",
+        "global_tilted_irradiance": "699.25946",
+        "state": "399.4843599033389"
+    },
+    {
+        "date": "2025-02-19 11:30:00+00:00",
+        "temperature_2m": "13.0",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "567.0",
+        "global_tilted_irradiance": "706.0511",
+        "state": "397.54258533574904"
+    },
+    {
+        "date": "2025-02-19 11:45:00+00:00",
+        "temperature_2m": "13.15",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "559.0",
+        "global_tilted_irradiance": "710.5639",
+        "state": "395.51935380655965"
+    },
+    {
+        "date": "2025-02-19 12:00:00+00:00",
+        "temperature_2m": "13.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "549.0",
+        "global_tilted_irradiance": "712.83875",
+        "state": "394.3936668441986"
+    },
+    {
+        "date": "2025-02-19 12:15:00+00:00",
+        "temperature_2m": "13.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "536.0",
+        "global_tilted_irradiance": "711.4249",
+        "state": "373.6780807576208"
+    },
+    {
+        "date": "2025-02-19 12:30:00+00:00",
+        "temperature_2m": "13.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "522.0",
+        "global_tilted_irradiance": "708.7145",
+        "state": "361.9254992614297"
+    },
+    {
+        "date": "2025-02-19 12:45:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "503.0",
+        "global_tilted_irradiance": "699.6832",
+        "state": "360.7453279988559"
+    },
+    {
+        "date": "2025-02-19 13:00:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "481.0",
+        "global_tilted_irradiance": "686.6422",
+        "state": "360.7348163347957"
+    },
+    {
+        "date": "2025-02-19 13:15:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "457.0",
+        "global_tilted_irradiance": "670.38007",
+        "state": "360.37922589598213"
+    },
+    {
+        "date": "2025-02-19 13:30:00+00:00",
+        "temperature_2m": "13.4",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "429.0",
+        "global_tilted_irradiance": "648.80743",
+        "state": "356.99898515636187"
+    },
+    {
+        "date": "2025-02-19 13:45:00+00:00",
+        "temperature_2m": "13.35",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "399.0",
+        "global_tilted_irradiance": "623.5592",
+        "state": "350.78561914369817"
+    },
+    {
+        "date": "2025-02-19 14:00:00+00:00",
+        "temperature_2m": "13.3",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "368.0",
+        "global_tilted_irradiance": "596.2241",
+        "state": "339.8113398231671"
+    },
+    {
+        "date": "2025-02-19 14:15:00+00:00",
+        "temperature_2m": "13.2",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "334.0",
+        "global_tilted_irradiance": "564.7452",
+        "state": "340.7048533114563"
+    },
+    {
+        "date": "2025-02-19 14:30:00+00:00",
+        "temperature_2m": "13.1",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "299.0",
+        "global_tilted_irradiance": "529.5448",
+        "state": "340.14588859739547"
+    },
+    {
+        "date": "2025-02-19 14:45:00+00:00",
+        "temperature_2m": "12.95",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "261.0",
+        "global_tilted_irradiance": "489.2477",
+        "state": "341.0613512449364"
+    },
+    {
+        "date": "2025-02-19 15:00:00+00:00",
+        "temperature_2m": "12.75",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "222.0",
+        "global_tilted_irradiance": "444.96713",
+        "state": "342.34455012926423"
+    },
+    {
+        "date": "2025-02-19 15:15:00+00:00",
+        "temperature_2m": "12.5",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "184.0",
+        "global_tilted_irradiance": "401.0198",
+        "state": "345.9677717009498"
+    },
+    {
+        "date": "2025-02-19 15:30:00+00:00",
+        "temperature_2m": "12.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "144.0",
+        "global_tilted_irradiance": "352.11255",
+        "state": "348.43540148038585"
+    },
+    {
+        "date": "2025-02-19 15:45:00+00:00",
+        "temperature_2m": "11.95",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "107.0",
+        "global_tilted_irradiance": "306.63678",
+        "state": "352.7540440709369"
+    },
+    {
+        "date": "2025-02-19 16:00:00+00:00",
+        "temperature_2m": "11.6",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "69.0",
+        "global_tilted_irradiance": "253.03828",
+        "state": "356.55877790454986"
+    },
+    {
+        "date": "2025-02-19 16:15:00+00:00",
+        "temperature_2m": "11.25",
+        "precipitation": "0.0",
+        "is_day": "1.0",
+        "shortwave_radiation": "34.0",
+        "global_tilted_irradiance": "151.05725",
+        "state": "345.0450059421705"
+    }
+]

@@ -1,0 +1,17 @@
+Flask
+pymongo
+pandas
+openmeteo_requests
+requests_cache
+retry_requests
+joblib
+scikit-learn
+keras
+matplotlib
+h5py
+tensorflow
+tabulate
+flask_cors
+requests
+numpy
+xgboost

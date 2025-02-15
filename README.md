@@ -37,3 +37,7 @@ Le principali componenti sviluppate sono le seguenti:
 * Kernel Ridge
 * Ridge
 6. **Archiviazione**: Infine, il backend è direttamente connesso a un'istanza MongoDB, un database NoSQL che garantisce una gestione efficiente e scalabile dei dati. Qui vengono memorizzate sia le informazioni raccolte che le previsioni generate, permettendo un facile accesso e consultazione per le future elaborazioni.
+
+
+## Il frontend del sistema è disponibile nel seguente repository: [wot-SolarProductionForecast-Frontend-BelcuoreErroi](https://github.com/GErroi/wot-SolarProductionForecast-FrontEnd-BelcuoreErroi)
+## La presentazione del sistema è disponibile nel seguente repository: [wot-SolarProductionForecast-Presentation-BelcuoreErroi](https://github.com/GErroi/wot-SolarProductionForecast-Presentation-BelcuoreErroi)

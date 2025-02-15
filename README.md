@@ -11,8 +11,29 @@ Le previsioni sono presentate in modo chiaro e intuitivo attraverso una dashboar
 
 L’architettura del sistema è composta dai seguenti elementi:
 
-1. **Raccolta dati**: alcune API acquisiscono i dati metereologici da *open-meteo.com* e i dati storici della produzione dell'impianto fotovoltaico;
+1. **Raccolta dati**: API a disposizione del backend/frontend per l'acquisizione di dati metereologici da *open-meteo.com* e di dati storici della produzione dell'impianto fotovoltaico;
 2. **Backend in Python**: pre-elabora i dati e genera previsioni tramite un modello ensemble basato su *SVR*, *Random Forest*, *Ridge Regression* e *Kernel Ridge Regression*;
 3. **Archiviazione in MongoDB**: memorizza le previsioni generate dal modello per analisi e consultazioni future;
 4. **Dashboard in React**: offre un’interfaccia intuitiva per la visualizzazione interattiva delle previsioni.
 
+![Architettura](proposta.png)
+
+## Backend
+
+Il backend del sistema è strutturato in diverse sezioni, ciascuna con un ruolo ben definito, che collaborano per ottenere un risultato preciso: fornire previsioni sulla produzione solare per i prossimi sette giorni, con un dettaglio temporale di 15 minuti.
+Le principali componenti sviluppate sono le seguenti:
+
+1. **Raccolta Dati**: Il backend interroga diverse API per raccogliere dati essenziali, sia di tipo meteorologico che relativi all’impianto fotovoltaico. Queste informazioni costituiscono la base su cui si fondano le previsioni e devono essere quanto più accurate e aggiornate possibile;
+2. **Pulizia Dati**: Una volta acquisiti, i dati vengono sottoposti a un processo di preprocessing per assicurarne la coerenza e la completezza. Questa fase è cruciale per eliminare eventuali anomalie o imperfezioni che potrebbero compromettere l’affidabilità delle previsioni. Le operazioni di pulizia comprendono:
+* Selezione delle feature numeriche
+* Rimozione dei duplicati
+* Gestione dei valori nulli
+* Eliminazione degli outlier
+* Codifica delle feature categoriche
+* Scaling
+4. **Modello Machine Learning**: Il cuore del sistema di previsione è un modello di machine learning basato su un approccio ensemble, una tecnica avanzata che combina più modelli per ottenere risultati più affidabili rispetto a un singolo algoritmo. Questo metodo permette di sfruttare i punti di forza di diversi approcci, migliorando così la precisione delle previsioni. Nel nostro caso, il modello ensemble è composto da diversi algoritmi di regressione, tra cui:
+* Support Vector Regression (SVR)
+* Random Forest Regressor
+* Kernel Ridge
+* Ridge
+6. **Archiviazione**: Infine, il backend è direttamente connesso a un'istanza MongoDB, un database NoSQL che garantisce una gestione efficiente e scalabile dei dati. Qui vengono memorizzate sia le informazioni raccolte che le previsioni generate, permettendo un facile accesso e consultazione per le future elaborazioni.
